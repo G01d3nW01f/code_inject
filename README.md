@@ -13,3 +13,10 @@ go build
 .\code_inject.exe 1234
 ```
 
+![image](https://github.com/user-attachments/assets/d864c372-bc55-4366-aed5-ee02f8effa83)
+
+```
+.\wine inject.exe 280
+Shell spawned successfully in process 280
+```
+
